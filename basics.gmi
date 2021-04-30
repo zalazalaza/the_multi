@@ -1,0 +1,47 @@
+```
+                                          
+ -/- /_   _      /_ __,   ,    .  __   ,  
+_/__/ (__(/_   _/_)(_/(__/_)__/__(_,__/_)_
+                                          
+                                          
+```
+# This section covers the basic ideas that provide a foundantion for multi/the multi.
+
+The multi is meant to be a simple game made up of corresponding simple components. In its most basic form it should serve as a standalone RPG or tabetop tactical game.  The decision of gamestyle is entirely up to the creator(DM) and the players.  Stats for players will be limited to three; body, brains, and spirit.  Each of those stats will have a corresponding d6 and rolls are comprised of some mix of stats.  However, it is also meant to be an extensible game and so personal/group changes and extensions of these basic parts are highly encouraged. 
+
+## Character creation, dice, and actions 
+
+* Character creation
+
+Character creation is simple. Choose a species. Roll 3 d6 and multiply the numbers counting all 1s as sixes. Distribute that total among the 3 stats according to the restrictions of your chosen species. Stats range on a scale of up to 111.
+
+These stats now represent the maximum capacity of each corresponding stat.  These statpoints will be spent to perform crucial actions throughout the game.
+
+* The dice
+
+Three six sided dice is all that is required for any roll in the game.  Almost all rolls are bought with their corresponding statpoints and in turn boosted with more of their corresponding statpoints. Triple 1s, 3s, and 6s are all numbers of significance in the game.
+
+> Rolling 111 - Rolling triple ones qualifies as rolling three sixes without penalty plus a recovery of one point from each stat if it is possible.
+
+> Rolling 333 - Rolling triple threes gives this player another action immediately following this same players present action. Human should follow human and reptoid should follow reptoid.
+
+> Rolling 666 - Rolling triple sixes costs and extra point from each corresponding stat. The action fails.
+
+* Actions
+
+For nearly all crucial actions the player must spend one each of the corresponding statpoints to attempt the action. This buys the dice roll for that corresponding stat. In addition, players may choose to spend additional statpoints to boost their rolls. 1 statpoint spent corresponds to one additional actionpoint added to its corresponding dice roll result. The dice roll plus additional actionpoints are totalled and then divided by the number of dice rolled. Round this number down to the nearest whole number. This is the score for the action. Keep track of the remaining fractional points as they will compromise your earned experience at the end of each crucial action.  Success is judged either in comparison to an antagonists counter roll, an antagonists specific statpoint total, or success score for an action.  
+
+After the end of each crucial action players are awarded experience points(which most gamers are familiar with).  The experience rewarded is the total of all fractional remainders created during each crucial action rounded up to the nearest whole number.  Each player is awarded a minimum of 1 experience per crucial action.  Experience can be spent on statpoints where 100 experience buys 1 permanent increase in one statpoint volume.  Experience is a small part of the game and most player growth will come in the form of __GEAR__ or __GROUPS__.
+
+Please read more about actions here:
+
+=> actions.gmi Action page
+
+or here:
+
+=> example.gmi An example of tactical game play.
+
+or choose to explore elsewhere
+
+=> the_multi.gmi [main page]
+

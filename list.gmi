@@ -1,0 +1,4 @@
+##List of other more than worthy gemini capsules
+=>gemini://distro.tube Derek Taylors(of youtube fame) capsule. vast oceans of cyberspace text and video.
+=>gemini://hexdsl.co.uk HexDSL is a linux guy from across the ocean. Informative AND aesthetically pleasing
+=>gemini://friendo.monster HexDSL's strange and interesting friend. If the dark side had a light side.
