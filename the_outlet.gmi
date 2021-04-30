@@ -1,6 +1,0 @@
-# Outlet
-
-## first writing from winter
-=> ./outlet/this_is_this_is.gmi [this is this is water]
-
-=> index.gmi [main page]
