@@ -14,10 +14,6 @@ The multi is the game I have always wanted to play, which is why I am making it.
 => basics.gmi The Basics
 => humans.gmi Humans
 => reptoids.gmi Reptoids
-=> pleiadians.gmi Pleiadians
-=> greys.gmi Greys
-=> cats.gmi Cats
-=> libraries.gmi Libraries
 => gear.gmi	Gearing up
 
 ## Link back
