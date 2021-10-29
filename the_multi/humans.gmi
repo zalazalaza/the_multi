@@ -19,6 +19,6 @@ Balanced - As the dice roll you are going to have to keep some semblence of bala
 
 ### RULE
 
-3D - Unless you aquire gear that enables you to you gotta stay on Earth in your regular dimension.  Even with the right gear its gonna be a tough experience crossing into another plane of existence.
+3D - Unless you aquire gear that enables you to you gotta stay on in your original regular dimension.  Even with the right gear its gonna be a tough experience crossing into another plane of existence. This means that if you generate a human character on a piece of paper with your friends you cannot transfer that character to the virtual component of the game, at least not easily, and not yet. The reverse is also true, you may not play your virtual human at a tabl with your friends.
 
 => the_multi.gmi [main page]
