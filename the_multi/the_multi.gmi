@@ -11,6 +11,8 @@ The multi is the game I have always wanted to play, which is why I am making it.
 
 At it's most basic it should be very minimal.  From there it will be optionally extensible with new "packets" much in the same manner linux is. Character sheets for all species begin with the same three stats, though the stats are generated according to different sets of rules.  Combinations of those three stats should make up your dices rolls when necessary.  3d6 and a simple sheet of paper should get you started.
 
+It is meant to contain two parts. One part will be the classic rpg/tactical style ruleset and the other part will be and interactive virtual world.  Both parts can involve searching for 'caches' in either the real world(think geocaching) or the virtual world.  These items will eventually be trasnferable between worlds, but to start they will be defined as either one or the other.  They will be stored using assymetric encryption and carry a unique private key with which you can unlock access to them.
+
 ### Some components to read about
 
 => basics.gmi The Basics
