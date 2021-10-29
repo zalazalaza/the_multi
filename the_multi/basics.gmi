@@ -13,7 +13,9 @@ The multi is meant to be a simple game made up of corresponding simple component
 
 * Character creation
 
-Character creation is simple. Choose a species. Roll 3 d6 and multiply the numbers counting all 1s as sixes. Distribute that total among the 3 stats according to the restrictions of your chosen species. Stats range on a scale of up to 111.
+Character creation is simple. Choose a species. Roll 3 d6 and multiply the numbers counting all 1s as sixes, all 2s as fives, and all 3s as fours. Distribute that total among the 3 stats according to the restrictions of your chosen species. Stats range on a scale of up to 111.
+
+The three stats are : Body, Brains, and Spirit
 
 These stats now represent the maximum capacity of each corresponding stat.  These statpoints will be spent to perform crucial actions throughout the game.
 
@@ -35,13 +37,5 @@ After the end of each crucial action players are awarded experience points(which
 
 Please read more about actions here:
 
-=> actions.gmi Action page
-
-or here:
-
-=> example.gmi An example of tactical game play.
-
-or choose to explore elsewhere
-
-=> the_multi.gmi [main page]
+##Examples
 
