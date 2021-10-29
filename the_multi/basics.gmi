@@ -37,5 +37,6 @@ After the end of each crucial action players are awarded experience points(which
 
 Please read more about actions here:
 
-##Examples
+##Damage
+When directing an action at another character(NPC, or player) damage is not traditionally and there is no hitpoint system.  Damage is done to specific stats, once one of those stats reaches zero the player can no longer act.  Once all reach zero the character is finished and all corresponding information should be destroyed, as in thrown into a fire.
 

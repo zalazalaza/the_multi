@@ -6,4 +6,7 @@ _(_/__(/_(_/(__/ (_
 (/                 
 ```
 
+#GEAR
+Gear
+
 => the_multi.gmi [main page]
